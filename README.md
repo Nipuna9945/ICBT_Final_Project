@@ -17,7 +17,7 @@ Final project for an application of machine learning and deep learning.
 * If you want to run the application you need to change the ip address that i put the ip address in my connection code (db service)
 
 # GitHub Repository
-
+https://github.com/Nipuna9945/ICBT_Final_Project
 
 # All libraries for ML
 * tensorflow
