@@ -13,6 +13,9 @@ Final project for an application of machine learning and deep learning.
 * Java (Android Studio)
 * Microsoft SQL server management studio
 
+# Special note
+* If you want to run the application you need to change the ip address that i put the ip address in my connection code (db service)
+
 # GitHub Repository
 
 
